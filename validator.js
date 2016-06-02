@@ -52,3 +52,4 @@ $(document).ready(function(){
 		parse_response_code(validate_form(email_handle.val(),$(this).val()),error_handles,submit_handle);
 	});
 });
+/* comment
